@@ -2,7 +2,7 @@ import React from 'react'
 
 const Logo = () => (
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="1191.000000pt" height="842.000000pt" viewBox="0 0 1191.000000 842.000000"
+ width="1191.000000pt" height="842.000000pt" viewBox="0 0 493.19 493.19"
  preserveAspectRatio="xMidYMid meet">
 <metadata>
 Created by potrace 1.16, written by Peter Selinger 2001-2019
