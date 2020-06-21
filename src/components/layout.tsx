@@ -79,7 +79,7 @@ const GlobalStyles = createGlobalStyle`
   }
   a {
     transition: all 0.3s ease-in-out;
-    color: black;
+    color: white;
     text-decoration: underline;
     &:hover,
     &:focus {
@@ -252,8 +252,7 @@ const Layout = ({ children, color }: LayoutProps) => {
           <Main>{children}</Main>
           <Footer color={color}>
             <Box p={[6, 6, 8]} fontSize={0}>
-              Starter by <a href="https://www.lekoarts.de/en">LekoArts</a>.<br />
-              <a href="https://github.com/LekoArts/gatsby-starter-portfolio-jodie">Source</a>.
+              Photography copyrighted by Aadithya Venkatanarayanan.<br />
             </Box>
           </Footer>
         </Wrapper>
